@@ -47,3 +47,7 @@ spec:
         requests:
           storage: 5Gi
       storageClassName: gp2
+
+
+
+# kubectl config set-context --current --namespace=efk
